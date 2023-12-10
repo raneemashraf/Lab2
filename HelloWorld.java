@@ -1,3 +1,3 @@
 class HelloWorld {
-	system.out.println("aaaaa");
+	system.out.println("yarab aa");
 }
